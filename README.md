@@ -2,6 +2,7 @@
 
 ### Stats 📈
 <div style = "float: left" >
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 <img height = "180px" src="https://github-readme-stats.vercel.app/api/?username=ryn5&theme=nightowl" /> 
 <img height = "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryn5&theme=nightowl&layout=compact" />
 
