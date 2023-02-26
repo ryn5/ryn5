@@ -2,8 +2,8 @@
 
 ### Stats 📈
 <div style = "float: left" >
-<img height = "180px" src="https://github-readme-stats.vercel.app/api/?username=Vickykxu&theme=nightowl" /> 
-<img height = "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickykxu&theme=nightowl&layout=compact" />
+<img height = "180px" src="https://github-readme-stats.vercel.app/api/?username=ryn5&theme=nightowl" /> 
+<img height = "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryn5&theme=nightowl&layout=compact" />
 
 <!--
 **ryn5/ryn5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
