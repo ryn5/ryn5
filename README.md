@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Stats 📈
+<div style = "float: left" >
+<img width = "360px" padding = "10px" src="https://github-readme-stats.vercel.app/api/?username=Vickykxu&theme=nightowl" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickykxu&theme=nightowl&layout=compact" />
+
 <!--
 **ryn5/ryn5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
