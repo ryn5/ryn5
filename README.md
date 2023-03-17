@@ -3,7 +3,7 @@
 My name's Ryan and I'm a third year Computer Science student at UBC
 
  - 🌱 Previous SDE intern at Transoft Solutions
- - 🧪 Currently working on a drafting AI for LoL
+ - 🧪 Currently working on a LoL drafting AI
  - 📫 Feel free to [connect](https://www.linkedin.com/in/ryan-tan-03157b239/)!
 
 ### Stats 📈
