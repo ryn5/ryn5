@@ -3,6 +3,7 @@
 My name's Ryan and I'm a third year Computer Science student at UBC
 
  - 🌱 Previous SDE intern at Transoft Solutions
+ - 🔭 Incoming SDE intern at Improving Vancouver
  - 🧪 Currently working on a LoL drafting AI
  - 📫 Feel free to [connect](https://www.linkedin.com/in/ryan-tan-03157b239/)!
 
@@ -17,7 +18,8 @@ My name's Ryan and I'm a third year Computer Science student at UBC
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
+ - 🔭 Incoming SDE intern at I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
