@@ -2,9 +2,8 @@
 
 My name's Ryan and I'm a fourth year Computer Science student at UBC
 
- - 🔭 Current SDE intern at Improving Vancouver
- - 🌱 Previous SDE intern at Transoft Solutions
- - 🧪 Working on Pix, a LoL drafting tool
+ - 🌱 Current SDE intern at Demonware
+ - 🔭 Previously at Improving and Transoft
  - 📫 Feel free to [connect](https://www.linkedin.com/in/ryan-tan-03157b239/)!
 
 <!--
