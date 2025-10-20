@@ -2,8 +2,8 @@
 
 My name's Ryan and I'm a fourth year Computer Science student at UBC
 
- - 🌱 Current SDE intern at Demonware
- - 🔭 Previously at Improving and Transoft
+ - 🌱 Current SWE intern at EA
+ - 🔭 Previously at Activision, Improving, and Transoft
  - 📫 Feel free to [connect](https://www.linkedin.com/in/ryan-tan-03157b239/)!
 
 <!--
